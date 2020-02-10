@@ -6,7 +6,7 @@ PCSGAN: Perceptual Cyclic-Synthesized Generative Adversarial Networks for Therma
 # PCSGAN Implementation in PyTorch
 This is the implementation of our paper called <b>"PCSGAN: Perceptual Cyclic-Synthesized Generative Adversarial Networks for Thermal/NIR to Visible Image Transformation".<b> <a href=
 ## PCSGAN Architectue
-<img src='PCGAN.png' align="center" width=600>
+<img src='PCSGAN.png' align="center" width=600>
 <br><br><br>
   
   
